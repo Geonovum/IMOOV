@@ -1,0 +1,8 @@
+{
+	"title": "Informatiemodel Openbare Orde en Veiligheid",
+	"description": "Het Informatiemodel voor de Openbare Orde en Veiligheid (IMOOV) maakt een soepele uitwisseling van geo-informatie mogelijk tussen brandweer, politie en andere hulpdiensten. Het informatiemodel richt zich in eerste instantie op bestrijding van drie soorten rampen: brand in grote gebouwen, verkeersongevallen op de weg en hoogwater.",
+	"sub_standards": {
+		"informatiemodel": "UML informatiemodellen (*.EAP of *.XMI). UML modellen worden hier aangeboden voor technische doeleinden zoals het genereren van schema's/code of het hergebruiken van entiteiten uit elkaars informatiemodel.",
+		"gmlapplicatieschema": "GML application schemas: XML schema's die een valide extensie van GML zijn."
+	}
+}
